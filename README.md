@@ -2,7 +2,7 @@
         <img src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" height="200" width="200">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%24292e&size=35&center=true&vCenter=true&width=800&height=100&lines=Hi+There+,+I'm+Tharindu+DHANANJAYA+👋;ICT+Student;Front-End+Developer;Nt"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%24292e&size=35&center=true&vCenter=true&width=800&height=100&lines=Hi+There+,+I'm+Tharindu+DHANANJAYA+👋;ICT+Student;UNDERGRADUATE;Front-End+Developer;NETWORKER"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dananjayaavt&label=Profile%20views&color=0e75b6&style=flat" alt="dananjayaavt" /> </p>
 <p align="center">
